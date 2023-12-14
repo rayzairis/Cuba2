@@ -1,0 +1,28 @@
+/* Estilo para la barra de navegación (topbar) */
+#topbar {
+    background-color: #333; /* Color de fondo de la barra */
+    color: white; /* Color del texto en la barra */
+    padding: 10px 0; /* Espaciado interior vertical */
+    /*text-align: center; /* Alineación del contenido */
+    }
+    /* Estilo para los elementos de la barra de navegación */
+    #topbar a {
+    color: white; /* Color del texto de los enlaces */
+    text-decoration: none; /* Elimina el subrayado predeterminado de los
+    
+    enlaces */
+    
+    margin: 0 15px; /* Espaciado horizontal entre elementos */
+    font-size: 20px;
+    }
+    /* Cambiar el color de los enlaces cuando se les pasa el mouse */
+    #topbar a:hover {
+    color: #FFD700; /* Cambia el color del texto cuando se pasa el mouse */
+    }
+    .hero h1{
+        height:500px;
+        background-color: beige;
+    }
+    .hero h1{
+        color:blue;
+    }
